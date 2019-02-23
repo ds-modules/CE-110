@@ -1,0 +1,128 @@
+{
+    "nodes": [
+        {
+            "name": "SW_CVPFKC"
+        },
+        {
+            "name": "1803033E"
+        },
+        {
+            "name": "1803033GW"
+        },
+        {
+            "name": "1803033PD"
+        },
+        {
+            "name": "FRES_ID"
+        },
+        {
+            "name": "RES_MLRTN"
+        },
+        {
+            "name": "1803033REC"
+        },
+        {
+            "name": "1803033NPD"
+        },
+        {
+            "name": "GW1803-5-22.08"
+        },
+        {
+            "name": "GW1803-5-22"
+        },
+        {
+            "name": "GWR1803-5-22.08"
+        },
+        {
+            "name": "WWT1803033"
+        },
+        {
+            "name": "SW_CVPFKC to other"
+        },
+        {
+            "name": "GW1803-5-22.08 to other"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 53121.0
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "value": 29572.94
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "value": 18266.6
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 14116.25
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "value": 67371.23
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "value": 61955.79
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 88.0
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "value": 88.0
+        },
+        {
+            "source": 8,
+            "target": 2,
+            "value": 29572.94
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "value": 49779.01
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "value": 1e-05
+        },
+        {
+            "source": 11,
+            "target": 6,
+            "value": 88.0
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "value": 1e-05
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1e-05
+        },
+        {
+            "source": 0,
+            "target": 12,
+            "value": 133.97999999999593
+        },
+        {
+            "source": 8,
+            "target": 13,
+            "value": 20206.070000000003
+        }
+    ]
+}
