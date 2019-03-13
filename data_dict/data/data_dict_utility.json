@@ -1,0 +1,2625 @@
+{
+    "basin_name": {
+        "ALEXANDER VALLEY": {
+            "subbasin_name": "CLOVERDALE AREA",
+            "basin_code": "GW1801-1-54",
+            "subbasin_code": "GW1801-1-54.02"
+        },
+        "EEL RIVER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1801-1-10",
+            "subbasin_code": "GW1801-1-10"
+        },
+        "EUREKA PLAIN": {
+            "subbasin_name": "",
+            "basin_code": "GW1801-1-09",
+            "subbasin_code": "GW1801-1-09"
+        },
+        "LOWER RUSSIAN RIVER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1801-1-60",
+            "subbasin_code": "GW1801-1-60"
+        },
+        "MAD RIVER VALLEY": {
+            "subbasin_name": "MAD RIVER LOWLAND",
+            "basin_code": "GW1801-1-08",
+            "subbasin_code": "GW1801-1-08.01"
+        },
+        "SANTA ROSA VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-36",
+            "subbasin_code": "GW1806-3-36"
+        },
+        "SMITH RIVER PLAIN": {
+            "subbasin_name": "",
+            "basin_code": "GW1801-1-01",
+            "subbasin_code": "GW1801-1-01"
+        },
+        "UKIAH VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1801-1-52",
+            "subbasin_code": "GW1801-1-52"
+        },
+        "WILSON GROVE FORMATION HIGHLANDS": {
+            "subbasin_name": "",
+            "basin_code": "GW1801-1-59",
+            "subbasin_code": "GW1801-1-59"
+        },
+        "<Null>": {
+            "subbasin_name": "<Null>",
+            "basin_code": "",
+            "subbasin_code": ""
+        },
+        "SACRAMENTO VALLEY": {
+            "subbasin_name": "NORTH YUBA",
+            "basin_code": "GW1802-5-21",
+            "subbasin_code": "GW1802-5-21.60"
+        },
+        "CUMMINGS VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1803-5-27",
+            "subbasin_code": "GW1803-5-27"
+        },
+        "SAN JOAQUIN VALLEY": {
+            "subbasin_name": "TURLOCK",
+            "basin_code": "GW1804-5-22",
+            "subbasin_code": "GW1804-5-22.03"
+        },
+        "TEHACHAPI VALLEY WEST": {
+            "subbasin_name": "",
+            "basin_code": "GW1803-5-28",
+            "subbasin_code": "GW1803-5-28"
+        },
+        "ARROYO DEL HAMBRE VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-31",
+            "subbasin_code": "GW1805-2-31"
+        },
+        "HALF MOON BAY TERRACE": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-22",
+            "subbasin_code": "GW1805-2-22"
+        },
+        "LIVERMORE VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-10",
+            "subbasin_code": "GW1805-2-10"
+        },
+        "NAPA-SONOMA VALLEY": {
+            "subbasin_name": "SONOMA VALLEY",
+            "basin_code": "GW1805-2-02",
+            "subbasin_code": "GW1805-2-02.02"
+        },
+        "NOVATO VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-30",
+            "subbasin_code": "GW1805-2-30"
+        },
+        "PETALUMA VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-01",
+            "subbasin_code": "GW1805-2-01"
+        },
+        "PITTSBURG PLAIN": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-04",
+            "subbasin_code": "GW1805-2-04"
+        },
+        "SANTA CLARA VALLEY": {
+            "subbasin_name": "SANTA CLARA",
+            "basin_code": "GW1805-2-09",
+            "subbasin_code": "GW1805-2-09.02"
+        },
+        "SUISUN-FAIRFIELD VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-03",
+            "subbasin_code": "GW1805-2-03"
+        },
+        "VISITACION VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-32",
+            "subbasin_code": "GW1805-2-32"
+        },
+        "WESTSIDE": {
+            "subbasin_name": "",
+            "basin_code": "GW1805-2-35",
+            "subbasin_code": "GW1805-2-35"
+        },
+        "CARPINTERIA": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-18",
+            "subbasin_code": "GW1806-3-18"
+        },
+        "GILROY-HOLLISTER VALLEY": {
+            "subbasin_name": "SAN JUAN BAUTISTA AREA",
+            "basin_code": "GW1806-3-03",
+            "subbasin_code": "GW1806-3-03.04"
+        },
+        "LOS OSOS VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-08",
+            "subbasin_code": "GW1806-3-08"
+        },
+        "MONTECITO": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-49",
+            "subbasin_code": "GW1806-3-49"
+        },
+        "PAJARO VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-02",
+            "subbasin_code": "GW1806-3-02"
+        },
+        "SALINAS VALLEY": {
+            "subbasin_name": "UPPER VALLEY AQUIFER",
+            "basin_code": "GW1806-3-04",
+            "subbasin_code": "GW1806-3-04.05"
+        },
+        "SAN LUIS OBISPO VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-09",
+            "subbasin_code": "GW1806-3-09"
+        },
+        "SANTA BARBARA": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-17",
+            "subbasin_code": "GW1806-3-17"
+        },
+        "SANTA MARIA": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-12",
+            "subbasin_code": "GW1806-3-12"
+        },
+        "SANTA YNEZ RIVER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-15",
+            "subbasin_code": "GW1806-3-15"
+        },
+        "SCOTTS VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-27",
+            "subbasin_code": "GW1806-3-27"
+        },
+        "SOQUEL VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1806-3-01",
+            "subbasin_code": "GW1806-3-01"
+        },
+        "BEAR VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-8-09",
+            "subbasin_code": "GW1807-8-09"
+        },
+        "COASTAL PLAIN OF LOS ANGELES": {
+            "subbasin_name": "WEST COAST",
+            "basin_code": "GW1807-4-11",
+            "subbasin_code": "GW1807-4-11.03"
+        },
+        "COASTAL PLAIN OF ORANGE COUNTY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-8-01",
+            "subbasin_code": "GW1807-8-01"
+        },
+        "CONEJO": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-10",
+            "subbasin_code": "GW1807-4-10"
+        },
+        "EL CAJON VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-16",
+            "subbasin_code": "GW1807-9-16"
+        },
+        "ELSINORE": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-8-04",
+            "subbasin_code": "GW1807-8-04"
+        },
+        "LAS POSAS VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-08",
+            "subbasin_code": "GW1807-4-08"
+        },
+        "OTAY VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-18",
+            "subbasin_code": "GW1807-9-18"
+        },
+        "PLEASANT VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-06",
+            "subbasin_code": "GW1807-4-06"
+        },
+        "RAYMOND": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-23",
+            "subbasin_code": "GW1807-4-23"
+        },
+        "SAN DIEGO RIVER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-15",
+            "subbasin_code": "GW1807-9-15"
+        },
+        "SAN FERNANDO VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-12",
+            "subbasin_code": "GW1807-4-12"
+        },
+        "SAN GABRIEL VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-13",
+            "subbasin_code": "GW1807-4-13"
+        },
+        "SAN JACINTO": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-8-05",
+            "subbasin_code": "GW1807-8-05"
+        },
+        "SAN JUAN VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-01",
+            "subbasin_code": "GW1807-9-01"
+        },
+        "SAN LUIS REY VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-07",
+            "subbasin_code": "GW1807-9-07"
+        },
+        "SAN MARCOS AREA": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-32",
+            "subbasin_code": "GW1807-9-32"
+        },
+        "SANTA CLARA RIVER VALLEY": {
+            "subbasin_name": "SANTA PAULA",
+            "basin_code": "GW1807-4-04",
+            "subbasin_code": "GW1807-4-04.04"
+        },
+        "SIMI VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-09",
+            "subbasin_code": "GW1807-4-09"
+        },
+        "SWEETWATER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-17",
+            "subbasin_code": "GW1807-9-17"
+        },
+        "TEMECULA VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-05",
+            "subbasin_code": "GW1807-9-05"
+        },
+        "TIA JUANA": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-9-19",
+            "subbasin_code": "GW1807-9-19"
+        },
+        "TIERRA REJADA": {
+            "subbasin_name": "",
+            "basin_code": "GW1807-4-15",
+            "subbasin_code": "GW1807-4-15"
+        },
+        "UPPER SANTA ANA VALLEY": {
+            "subbasin_name": "YUCAIPA",
+            "basin_code": "GW1807-8-02",
+            "subbasin_code": "GW1807-8-02.07"
+        },
+        "TAHOE VALLEY": {
+            "subbasin_name": "TAHOE WEST",
+            "basin_code": "GW1808-6-05",
+            "subbasin_code": "GW1808-6-05.02"
+        },
+        "ANTELOPE VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1809-6-44",
+            "subbasin_code": "GW1809-6-44"
+        },
+        "EL MIRAGE VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1809-6-43",
+            "subbasin_code": "GW1809-6-43"
+        },
+        "FREMONT VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1809-6-46",
+            "subbasin_code": "GW1809-6-46"
+        },
+        "INDIAN WELLS VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1809-6-54",
+            "subbasin_code": "GW1809-6-54"
+        },
+        "LOWER MOJAVE RIVER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1809-6-42",
+            "subbasin_code": "GW1809-6-42"
+        },
+        "UPPER MOJAVE RIVER VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1809-6-42",
+            "subbasin_code": "GW1809-6-42"
+        },
+        "COACHELLA VALLEY": {
+            "subbasin_name": "SAN GORGONIO PASS",
+            "basin_code": "GW1810-7-21",
+            "subbasin_code": "GW1810-7-21.04"
+        },
+        "IMPERIAL VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1810-7-30",
+            "subbasin_code": "GW1810-7-30"
+        },
+        "JOHNSON VALLEY": {
+            "subbasin_name": "SOGGY LAKE",
+            "basin_code": "GW1810-7-18",
+            "subbasin_code": "GW1810-7-18.01"
+        },
+        "JOSHUA TREE": {
+            "subbasin_name": "",
+            "basin_code": "GW1810-7-62",
+            "subbasin_code": "GW1810-7-62"
+        },
+        "PALO VERDE VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1810-7-38",
+            "subbasin_code": "GW1810-7-38"
+        },
+        "WARREN VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1810-7-12",
+            "subbasin_code": "GW1810-7-12"
+        },
+        "LOWER LAKE VALLEY": {
+            "subbasin_name": "",
+            "basin_code": "GW1802-5-30",
+            "subbasin_code": "GW1802-5-30"
+        }
+    },
+    "node_name": {
+        "CVP_SFBayDelta": {
+            "node_def": "CVP allocation of SF Bay Delta"
+        },
+        "Lk_OrovilleSWP": {
+            "node_def": "SWP Lake Oroville"
+        },
+        "LK_ShastaCVP": {
+            "node_def": "CVP Lake Shasta"
+        },
+        "LK_TrinityCVP": {
+            "node_def": "CVP Trinity Lake"
+        },
+        "R_American": {
+            "node_def": "American River"
+        },
+        "R_AmericanMFRK": {
+            "node_def": "Middle Fork American River"
+        },
+        "R_AmericanNFRK": {
+            "node_def": "North Fork American River"
+        },
+        "R_AmericanSFRK": {
+            "node_def": "S. Fork American River"
+        },
+        "R_Calaveras": {
+            "node_def": "Calaveras River"
+        },
+        "R_Feather": {
+            "node_def": "Feather River"
+        },
+        "R_Mokelumn": {
+            "node_def": "Mokelumne River"
+        },
+        "R_Sacramento": {
+            "node_def": "Sacramento River"
+        },
+        "R_SanJoaquin": {
+            "node_def": "san Joaquin River"
+        },
+        "R_Stanislaus": {
+            "node_def": "Stanislaus River"
+        },
+        "R_Tuolumn": {
+            "node_def": "Tuolomne River"
+        },
+        "RES1805081": {
+            "node_def": "Hetch Hetchy"
+        },
+        "SFBayDelta": {
+            "node_def": "SF Bay Delta"
+        },
+        "SW_CVP-Coalinga": {
+            "node_def": "CVP Coalinga Plant"
+        },
+        "SW_CVP-CoTracy": {
+            "node_def": "CVP Tracy Pimp Plant (this is probably an error, may have been fixed in the links file?)"
+        },
+        "SW_CVP-Coyot": {
+            "node_def": "CVP Coyote Pumping plan"
+        },
+        "SW_CVP-DMC": {
+            "node_def": "CVP Delta Mendota Canal"
+        },
+        "SW_CVP-DosAmigos": {
+            "node_def": "CVP Dos Amigos Pumping Plant"
+        },
+        "SW_CVP-Gianelli": {
+            "node_def": "CVP GianelliPumping Plant"
+        },
+        "SW_CVP-ONL": {
+            "node_def": "CVP Oneill Pumping Plant"
+        },
+        "SW_CVP-Pacheco": {
+            "node_def": "CVP Pacheco Pumping Plant"
+        },
+        "SW_CVP-Tracy": {
+            "node_def": "CVP Tracy Pumping Plant"
+        },
+        "SW1802SWP01": {
+            "node_def": "SWP_Hyatt_PGP"
+        },
+        "SW1802SWP02": {
+            "node_def": "SWP_Thermalito_Diversion_Dam_Power"
+        },
+        "SW1802SWP03": {
+            "node_def": "SWP_Thermalito_PGP"
+        },
+        "SW1802SWP04": {
+            "node_def": "SWP North Bay Aqueduct_ BarkerSloughPP"
+        },
+        "SW1803SWP11": {
+            "node_def": "SWP Coastal Branch- Las Parillas PP"
+        },
+        "SW1803SWP12": {
+            "node_def": "SWP Coastal Branch pump plant (can get name later if needed)"
+        },
+        "SW1803SWP13": {
+            "node_def": "SWP Coastal Branch pump plant (can get name later if needed)"
+        },
+        "SW1803SWP14": {
+            "node_def": "SWP Coastal Branch pump plant (can get name later if needed)"
+        },
+        "SW1803SWP16": {
+            "node_def": "SWP Cal Aqueduct- Buena Vista PP"
+        },
+        "SW1803SWP17": {
+            "node_def": "SWP Cal Aqueduct- Teerink"
+        },
+        "SW1803SWP18": {
+            "node_def": "SWP Cal Aqueduct- Chrisman"
+        },
+        "SW1803SWP19": {
+            "node_def": "SWP Cal Aqueduct- END- Edmonston"
+        },
+        "SW1804SWP06": {
+            "node_def": "SWP Cal Aqueduct_BanksPP"
+        },
+        "SW1804SWP07": {
+            "node_def": "SWP South Bay Aqueduct_ South Bay PP"
+        },
+        "SW1804SWP09": {
+            "node_def": "SWP_Gianelli_PP"
+        },
+        "SW1804SWP10": {
+            "node_def": "SWP Cal Aqueduct- Dos Amigos PP"
+        },
+        "SW1805081EB": {
+            "node_def": "SFPUC Hetch Hetchhy Aqueduct east bay portion"
+        },
+        "SW1805081PEN": {
+            "node_def": "SFPUC Hetch Hetchhy Aqueduct Peninsula portion"
+        },
+        "SW1805081SYS": {
+            "node_def": "SFPUC Hetch Hetchhy Aqueduct east of the bay area"
+        },
+        "SW1805SWP05": {
+            "node_def": "SWP North Bay Aqueduct_ Cordelia"
+        },
+        "SW1805SWP05a": {
+            "node_def": "SWP North Bay Aqueduct_ CordeliatoBenecia"
+        },
+        "SW1805SWP05b": {
+            "node_def": "SWP North Bay Aqueduct_ CordeliatoVallejo"
+        },
+        "SW1805SWP05c": {
+            "node_def": "SWP North Bay Aqueduct_ CordeliatoNapa"
+        },
+        "SW1805SWP08": {
+            "node_def": "SWP South Bay Aqueduct_ Del valle PP"
+        },
+        "SW1806SWP15": {
+            "node_def": "SWP_Coastal_END_Polonio_Pass_PP"
+        },
+        "SW1807SWP22": {
+            "node_def": "SWP West Branch- Warne Hydro"
+        },
+        "SW1807SWP23": {
+            "node_def": "SWP West Branch END- Castaic Pump-Gen Plant"
+        },
+        "SW1807SWP26": {
+            "node_def": "SWP East Branch END- Devil Conyon Hydro"
+        },
+        "SW1807SWP27": {
+            "node_def": "SWP East Extension- Greenspot PS"
+        },
+        "SW1807SWP28": {
+            "node_def": "SWP East Extension- Crofton Hills PS"
+        },
+        "SW1807SWP29": {
+            "node_def": "SWP East Extension END- Cherry Valley PS"
+        },
+        "SW1809SWP20": {
+            "node_def": "SWP Cal Aqueduct- Alamo Hydro"
+        },
+        "SW1809SWP21": {
+            "node_def": "SWP Cal Aqueduct- Oso PP"
+        },
+        "SW1809SWP24": {
+            "node_def": "SWP Cal Aqueduct- Pearblossom PP"
+        },
+        "SW1809SWP25": {
+            "node_def": "SWP Cal Aqueduct- Mojave Siphon"
+        },
+        "SWP_SFBayDelta": {
+            "node_def": "SWP allocation of SF Bay Delta"
+        }
+    },
+    "node_acronyms": {
+        "SWP": {
+            "system": "State Water Project"
+        },
+        "CVP": {
+            "system": "Central Valley Project"
+        },
+        "SFPUC": {
+            "system": "San Francisco Public Utilities Commission"
+        },
+        "AAC ": {
+            "system": "All American Canal"
+        },
+        "LAA": {
+            "system": "Los Angeles Aqueduct"
+        },
+        "CRA": {
+            "system": "Colorado River aqueduct"
+        }
+    },
+    "utility": {
+        "1805003": {
+            "supplier": "Alameda County Water District",
+            "wholesale/retail": "R"
+        },
+        "1803033": {
+            "supplier": "Fresno City of",
+            "wholesale/retail": "R"
+        },
+        "1810019": {
+            "supplier": "Hi-Desert Water District",
+            "wholesale/retail": "R"
+        },
+        "1807163": {
+            "supplier": "Irvine Ranch Water District",
+            "wholesale/retail": "R"
+        },
+        "1806045": {
+            "supplier": "Morro Bay City of",
+            "wholesale/retail": "R"
+        },
+        "1809027": {
+            "supplier": "Palmdale Water District",
+            "wholesale/retail": "R"
+        },
+        "1805081": {
+            "supplier": "San Francisco Public Utilities Commission",
+            "wholesale/retail": "R"
+        },
+        "1805085": {
+            "supplier": "San Jose Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807341": {
+            "supplier": "Santa Monica City of",
+            "wholesale/retail": "R"
+        },
+        "1807377": {
+            "supplier": "Torrance City of",
+            "wholesale/retail": "R"
+        },
+        "1804065": {
+            "supplier": "Tracy City of",
+            "wholesale/retail": "R"
+        },
+        "1809001": {
+            "supplier": "Adelanto city of",
+            "wholesale/retail": "R"
+        },
+        "1805001": {
+            "supplier": "Alameda County Flood Control and Water Conservation District Zone 7",
+            "wholesale/retail": "W"
+        },
+        "1806001": {
+            "supplier": "Alco Water Service",
+            "wholesale/retail": "R"
+        },
+        "1807001": {
+            "supplier": "Alhambra City of",
+            "wholesale/retail": "R"
+        },
+        "1808001": {
+            "supplier": "Amador Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1805005": {
+            "supplier": "American Canyon, City of",
+            "wholesale/retail": "R"
+        },
+        "1807003": {
+            "supplier": "Anaheim City of",
+            "wholesale/retail": "R"
+        },
+        "1802001": {
+            "supplier": "Anderson, City of",
+            "wholesale/retail": "R"
+        },
+        "1809003": {
+            "supplier": "Antelope Valley East Kern Water Agency",
+            "wholesale/retail": "W"
+        },
+        "1804001": {
+            "supplier": "Antioch City of",
+            "wholesale/retail": "R"
+        },
+        "1809005": {
+            "supplier": "Apple Valley Ranchos Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807005": {
+            "supplier": "Arcadia City of",
+            "wholesale/retail": "R"
+        },
+        "1801001": {
+            "supplier": "Arcata City of",
+            "wholesale/retail": "R"
+        },
+        "1806003": {
+            "supplier": "Arroyo Grande City of",
+            "wholesale/retail": "R"
+        },
+        "1803001": {
+            "supplier": "Arvin Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1806005": {
+            "supplier": "Atascadero Mutual Water Company",
+            "wholesale/retail": "R"
+        },
+        "1804003": {
+            "supplier": "Atwater City of",
+            "wholesale/retail": "R"
+        },
+        "1803003": {
+            "supplier": "Avenal, City of",
+            "wholesale/retail": "R"
+        },
+        "1807007": {
+            "supplier": "Azusa City of",
+            "wholesale/retail": "R"
+        },
+        "1803005": {
+            "supplier": "Bakersfield City of",
+            "wholesale/retail": "R"
+        },
+        "1803007": {
+            "supplier": "Bakman Water Company",
+            "wholesale/retail": "R"
+        },
+        "1809007": {
+            "supplier": "Baldy Mesa Water District",
+            "wholesale/retail": "R"
+        },
+        "1810001": {
+            "supplier": "Banning City of",
+            "wholesale/retail": "R"
+        },
+        "1804005": {
+            "supplier": "Bear Valley Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807009": {
+            "supplier": "Beaumont-Cherry Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807011": {
+            "supplier": "Bell Gardens, City of",
+            "wholesale/retail": "R"
+        },
+        "1802003": {
+            "supplier": "Bella Vista Water District",
+            "wholesale/retail": "R"
+        },
+        "1807013": {
+            "supplier": "Bellflower-Somerset Mutual Water Company",
+            "wholesale/retail": "R"
+        },
+        "1805007": {
+            "supplier": "Benicia City of",
+            "wholesale/retail": "R"
+        },
+        "1807015": {
+            "supplier": "Beverly Hills City of",
+            "wholesale/retail": "R"
+        },
+        "1807017": {
+            "supplier": "Big Bear Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807019": {
+            "supplier": "Big Bear Lake City of",
+            "wholesale/retail": "R"
+        },
+        "1810003": {
+            "supplier": "Blythe City of",
+            "wholesale/retail": "R"
+        },
+        "1810005": {
+            "supplier": "Borrengo Water District",
+            "wholesale/retail": "R"
+        },
+        "1810007": {
+            "supplier": "Brawley City of",
+            "wholesale/retail": "R"
+        },
+        "1807021": {
+            "supplier": "Brea City of",
+            "wholesale/retail": "R"
+        },
+        "1804007": {
+            "supplier": "Brentwood City of",
+            "wholesale/retail": "R"
+        },
+        "1807023": {
+            "supplier": "Buena Park City of",
+            "wholesale/retail": "R"
+        },
+        "1807025": {
+            "supplier": "Burbank City of",
+            "wholesale/retail": "R"
+        },
+        "1805009": {
+            "supplier": "Burlingame City of",
+            "wholesale/retail": "R"
+        },
+        "1804009": {
+            "supplier": "Calaveras County Water District",
+            "wholesale/retail": "R"
+        },
+        "1810009": {
+            "supplier": "Calexico City of",
+            "wholesale/retail": "R"
+        },
+        "1809009": {
+            "supplier": "California City City of",
+            "wholesale/retail": "R"
+        },
+        "1807027": {
+            "supplier": "California Domestic Water Company",
+            "wholesale/retail": "R"
+        },
+        "1809011": {
+            "supplier": "California Water Service Company Antelope Valley",
+            "wholesale/retail": "R"
+        },
+        "1803009": {
+            "supplier": "California Water Service Company Bakersfield",
+            "wholesale/retail": "R"
+        },
+        "1805011": {
+            "supplier": "California Water Service Company Bear Gulch",
+            "wholesale/retail": "R"
+        },
+        "1802005": {
+            "supplier": "California Water Service Company Chico District",
+            "wholesale/retail": "R"
+        },
+        "1802007": {
+            "supplier": "California Water Service Company Dixon, City of",
+            "wholesale/retail": "R"
+        },
+        "1807029": {
+            "supplier": "California Water Service Company Dominguez",
+            "wholesale/retail": "R"
+        },
+        "1807031": {
+            "supplier": "California Water Service Company East Los Angeles",
+            "wholesale/retail": "R"
+        },
+        "1807032": {
+            "supplier": "California Water Service Company Hermosa/Redondo",
+            "wholesale/retail": "R"
+        },
+        "1803013": {
+            "supplier": "California Water Service Company Kern River Valley",
+            "wholesale/retail": "R"
+        },
+        "1806007": {
+            "supplier": "California Water Service Company King City",
+            "wholesale/retail": "R"
+        },
+        "1805013": {
+            "supplier": "California Water Service Company Livermore",
+            "wholesale/retail": "R"
+        },
+        "1805015": {
+            "supplier": "California Water Service Company Los Altos/Suburban",
+            "wholesale/retail": "R"
+        },
+        "1802009": {
+            "supplier": "California Water Service Company Marysville",
+            "wholesale/retail": "R"
+        },
+        "1805017": {
+            "supplier": "California Water Service Company Mid Peninsula",
+            "wholesale/retail": "R"
+        },
+        "1802011": {
+            "supplier": "California Water Service Company Oroville",
+            "wholesale/retail": "R"
+        },
+        "1807033": {
+            "supplier": "California Water Service Company Palos Verdes",
+            "wholesale/retail": "R"
+        },
+        "1802013": {
+            "supplier": "California Water Service Company Redwood Valley",
+            "wholesale/retail": "R"
+        },
+        "1806009": {
+            "supplier": "California Water Service Company Salinas District",
+            "wholesale/retail": "R"
+        },
+        "1803015": {
+            "supplier": "California Water Service Company Selma",
+            "wholesale/retail": "R"
+        },
+        "1805019": {
+            "supplier": "California Water Service Company South San Francisco",
+            "wholesale/retail": "R"
+        },
+        "1804011": {
+            "supplier": "California Water Service Company Stockton",
+            "wholesale/retail": "R"
+        },
+        "1803017": {
+            "supplier": "California Water Service Company Visalia",
+            "wholesale/retail": "R"
+        },
+        "1807034": {
+            "supplier": "California Water Service Company Westlake",
+            "wholesale/retail": "R"
+        },
+        "1802015": {
+            "supplier": "California Water Service Company Willows",
+            "wholesale/retail": "R"
+        },
+        "1807035": {
+            "supplier": "California-American Water Company Los Angeles District",
+            "wholesale/retail": "R"
+        },
+        "1806011": {
+            "supplier": "California-American Water Company Monterey District",
+            "wholesale/retail": "R"
+        },
+        "1802017": {
+            "supplier": "California-American Water Company Sacramento District",
+            "wholesale/retail": "R"
+        },
+        "1807037": {
+            "supplier": "California-American Water Company San Diego District",
+            "wholesale/retail": "R"
+        },
+        "1807039": {
+            "supplier": "California-American Water Ventura District",
+            "wholesale/retail": "R"
+        },
+        "1807041": {
+            "supplier": "Calleguas Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1807043": {
+            "supplier": "Camarillo City of",
+            "wholesale/retail": "R"
+        },
+        "1806013": {
+            "supplier": "Cambria Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807045": {
+            "supplier": "Camrosa Water District",
+            "wholesale/retail": "R"
+        },
+        "1807047": {
+            "supplier": "Carlsbad Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1802019": {
+            "supplier": "Carmichael Water District",
+            "wholesale/retail": "R"
+        },
+        "1806015": {
+            "supplier": "Carpinteria Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807049": {
+            "supplier": "Casitas Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1807051": {
+            "supplier": "Castaic Lake Water Agency",
+            "wholesale/retail": "W"
+        },
+        "1807053": {
+            "supplier": "Castaic Lake Water Agency Santa Clarita Water Division",
+            "wholesale/retail": "R"
+        },
+        "1807055": {
+            "supplier": "Central Basin Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1806017": {
+            "supplier": "Central Coast Water Authority",
+            "wholesale/retail": "W"
+        },
+        "1804013": {
+            "supplier": "Ceres City of",
+            "wholesale/retail": "R"
+        },
+        "1807057": {
+            "supplier": "Cerritos City of",
+            "wholesale/retail": "R"
+        },
+        "1807061": {
+            "supplier": "Chino Basin Desalter Authority City of",
+            "wholesale/retail": "W"
+        },
+        "1807059": {
+            "supplier": "Chino City of",
+            "wholesale/retail": "R"
+        },
+        "1807063": {
+            "supplier": "Chino Hills City of",
+            "wholesale/retail": "R"
+        },
+        "1804015": {
+            "supplier": "Chowchilla, City of Water Department",
+            "wholesale/retail": "R"
+        },
+        "1802021": {
+            "supplier": "Citrus Heights Water District",
+            "wholesale/retail": "R"
+        },
+        "1802023": {
+            "supplier": "Clear Creek Community Service District - Anderson",
+            "wholesale/retail": "R"
+        },
+        "1801003": {
+            "supplier": "Cloverdale",
+            "wholesale/retail": "R"
+        },
+        "1803019": {
+            "supplier": "Clovis City of",
+            "wholesale/retail": "R"
+        },
+        "1810011": {
+            "supplier": "Coachella City of",
+            "wholesale/retail": "R"
+        },
+        "1810013": {
+            "supplier": "Coachella Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1803021": {
+            "supplier": "Coalinga City of",
+            "wholesale/retail": "R"
+        },
+        "1805023": {
+            "supplier": "Coastside County Water District",
+            "wholesale/retail": "R"
+        },
+        "1807065": {
+            "supplier": "Colton, City of",
+            "wholesale/retail": "R"
+        },
+        "1807067": {
+            "supplier": "Compton City of",
+            "wholesale/retail": "R"
+        },
+        "1805025": {
+            "supplier": "Contra Costa Water District",
+            "wholesale/retail": "R"
+        },
+        "1803023": {
+            "supplier": "Corcoran City of",
+            "wholesale/retail": "R"
+        },
+        "1802025": {
+            "supplier": "Corning, City of",
+            "wholesale/retail": "R"
+        },
+        "1807069": {
+            "supplier": "Corona City of",
+            "wholesale/retail": "R"
+        },
+        "1801005": {
+            "supplier": "Cotati City of",
+            "wholesale/retail": "R"
+        },
+        "1807071": {
+            "supplier": "Covina City of",
+            "wholesale/retail": "R"
+        },
+        "1807073": {
+            "supplier": "Covina Irrigating Company",
+            "wholesale/retail": "R"
+        },
+        "1801007": {
+            "supplier": "Crescent City City of",
+            "wholesale/retail": "R"
+        },
+        "1807075": {
+            "supplier": "Crescenta Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807077": {
+            "supplier": "Crestline Village Water District",
+            "wholesale/retail": "R"
+        },
+        "1809013": {
+            "supplier": "Crestline-Lake Arrowhead Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1807079": {
+            "supplier": "Cucamonga Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1805027": {
+            "supplier": "Daly City City of",
+            "wholesale/retail": "R"
+        },
+        "1802027": {
+            "supplier": "Davis City of",
+            "wholesale/retail": "R"
+        },
+        "1802029": {
+            "supplier": "Del Oro Water Company",
+            "wholesale/retail": "R"
+        },
+        "1803025": {
+            "supplier": "Delano City of",
+            "wholesale/retail": "R"
+        },
+        "1810015": {
+            "supplier": "Desert Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1804017": {
+            "supplier": "Diablo Water District",
+            "wholesale/retail": "R"
+        },
+        "1803027": {
+            "supplier": "Dinuba City of",
+            "wholesale/retail": "R"
+        },
+        "1804019": {
+            "supplier": "Discovery Bay Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807081": {
+            "supplier": "Downey City of",
+            "wholesale/retail": "R"
+        },
+        "1805029": {
+            "supplier": "Dublin San Ramon Services District",
+            "wholesale/retail": "R"
+        },
+        "1805031": {
+            "supplier": "East Bay Municipal Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1803029": {
+            "supplier": "East Niles Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1807083": {
+            "supplier": "East Orange County Water District",
+            "wholesale/retail": "R"
+        },
+        "1805033": {
+            "supplier": "East Palo Alto, City of",
+            "wholesale/retail": "R"
+        },
+        "1807085": {
+            "supplier": "East Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807087": {
+            "supplier": "Eastern Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1810017": {
+            "supplier": "El Centro City of",
+            "wholesale/retail": "R"
+        },
+        "1802031": {
+            "supplier": "El Dorado Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807089": {
+            "supplier": "El Monte City of",
+            "wholesale/retail": "R"
+        },
+        "1807091": {
+            "supplier": "El Segundo City of",
+            "wholesale/retail": "R"
+        },
+        "1807093": {
+            "supplier": "El Toro Water District",
+            "wholesale/retail": "R"
+        },
+        "1802033": {
+            "supplier": "Elk Grove Water Service",
+            "wholesale/retail": "R"
+        },
+        "1807095": {
+            "supplier": "Elsinore Valley Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1807097": {
+            "supplier": "Escondido City of",
+            "wholesale/retail": "R"
+        },
+        "1805035": {
+            "supplier": "Estero Municipal Improvement District",
+            "wholesale/retail": "R"
+        },
+        "1801009": {
+            "supplier": "Eureka City of",
+            "wholesale/retail": "R"
+        },
+        "1803031": {
+            "supplier": "Exeter City of",
+            "wholesale/retail": "R"
+        },
+        "1802035": {
+            "supplier": "Fair Oaks Water District",
+            "wholesale/retail": "R"
+        },
+        "1805037": {
+            "supplier": "Fairfield City of",
+            "wholesale/retail": "R"
+        },
+        "1807099": {
+            "supplier": "Fallbrook Public Utility District",
+            "wholesale/retail": "R"
+        },
+        "1807101": {
+            "supplier": "Fillmore City of",
+            "wholesale/retail": "R"
+        },
+        "1802037": {
+            "supplier": "Folsom City of",
+            "wholesale/retail": "R"
+        },
+        "1807103": {
+            "supplier": "Foothill Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1801011": {
+            "supplier": "Fortuna City of",
+            "wholesale/retail": "R"
+        },
+        "1807105": {
+            "supplier": "Fountain Valley City of",
+            "wholesale/retail": "R"
+        },
+        "1807107": {
+            "supplier": "Frazer Park Public Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1803034": {
+            "supplier": "Fresno Irrigation District",
+            "wholesale/retail": "W"
+        },
+        "1802039": {
+            "supplier": "Fruitridge Vista Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807109": {
+            "supplier": "Fullerton City of",
+            "wholesale/retail": "R"
+        },
+        "1804021": {
+            "supplier": "Galt City of",
+            "wholesale/retail": "R"
+        },
+        "1807111": {
+            "supplier": "Garden Grove City of",
+            "wholesale/retail": "R"
+        },
+        "1802041": {
+            "supplier": "Georgetown Divide Public Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1806019": {
+            "supplier": "Gilroy City of",
+            "wholesale/retail": "R"
+        },
+        "1807113": {
+            "supplier": "Glendale City of",
+            "wholesale/retail": "R"
+        },
+        "1807115": {
+            "supplier": "Glendora City of",
+            "wholesale/retail": "R"
+        },
+        "1803035": {
+            "supplier": "Golden Hills Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807117": {
+            "supplier": "Golden State Water Company Artesia",
+            "wholesale/retail": "R"
+        },
+        "1809015": {
+            "supplier": "Golden State Water Company Barstow",
+            "wholesale/retail": "R"
+        },
+        "1805039": {
+            "supplier": "Golden State Water Company Bay Point",
+            "wholesale/retail": "R"
+        },
+        "1807119": {
+            "supplier": "Golden State Water Company Bell-Bell Gardens",
+            "wholesale/retail": "R"
+        },
+        "1807121": {
+            "supplier": "Golden State Water Company Claremont",
+            "wholesale/retail": "R"
+        },
+        "1802043": {
+            "supplier": "Golden State Water Company Cordova",
+            "wholesale/retail": "R"
+        },
+        "1807123": {
+            "supplier": "Golden State Water Company Cowan Heights",
+            "wholesale/retail": "R"
+        },
+        "1807125": {
+            "supplier": "Golden State Water Company Culver City",
+            "wholesale/retail": "R"
+        },
+        "1807127": {
+            "supplier": "Golden State Water Company Florence Graham",
+            "wholesale/retail": "R"
+        },
+        "1807129": {
+            "supplier": "Golden State Water Company Norwalk",
+            "wholesale/retail": "R"
+        },
+        "1807131": {
+            "supplier": "Golden State Water Company Ojai",
+            "wholesale/retail": "R"
+        },
+        "1806021": {
+            "supplier": "Golden State Water Company Orcutt",
+            "wholesale/retail": "R"
+        },
+        "1807133": {
+            "supplier": "Golden State Water Company Placentia",
+            "wholesale/retail": "R"
+        },
+        "1807135": {
+            "supplier": "Golden State Water Company S Arcadia",
+            "wholesale/retail": "R"
+        },
+        "1807137": {
+            "supplier": "Golden State Water Company S San Gabriel",
+            "wholesale/retail": "R"
+        },
+        "1807139": {
+            "supplier": "Golden State Water Company San Dimas",
+            "wholesale/retail": "R"
+        },
+        "1807141": {
+            "supplier": "Golden State Water Company Simi Valley",
+            "wholesale/retail": "R"
+        },
+        "1807143": {
+            "supplier": "Golden State Water Company Southwest",
+            "wholesale/retail": "R"
+        },
+        "1807145": {
+            "supplier": "Golden State Water Company West Orange",
+            "wholesale/retail": "R"
+        },
+        "1806023": {
+            "supplier": "Goleta Water District",
+            "wholesale/retail": "R"
+        },
+        "1802045": {
+            "supplier": "Grass Valley, City of",
+            "wholesale/retail": "R"
+        },
+        "1805041": {
+            "supplier": "Great Oaks Water Company Incorporated",
+            "wholesale/retail": "R"
+        },
+        "1806025": {
+            "supplier": "Greenfield, City of",
+            "wholesale/retail": "R"
+        },
+        "1802047": {
+            "supplier": "Gridley, City of",
+            "wholesale/retail": "R"
+        },
+        "1804023": {
+            "supplier": "Groveland Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1806027": {
+            "supplier": "Grover Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1806029": {
+            "supplier": "Guadalupe, City of",
+            "wholesale/retail": "R"
+        },
+        "1803037": {
+            "supplier": "Hanford City of",
+            "wholesale/retail": "R"
+        },
+        "1807147": {
+            "supplier": "Hawthorne City of",
+            "wholesale/retail": "R"
+        },
+        "1805043": {
+            "supplier": "Hayward City of",
+            "wholesale/retail": "R"
+        },
+        "1801013": {
+            "supplier": "Healdsburg City of",
+            "wholesale/retail": "R"
+        },
+        "1807149": {
+            "supplier": "Helix Water District",
+            "wholesale/retail": "R"
+        },
+        "1807151": {
+            "supplier": "Hemet City of",
+            "wholesale/retail": "R"
+        },
+        "1809017": {
+            "supplier": "Hesperia Water District City of",
+            "wholesale/retail": "R"
+        },
+        "1802049": {
+            "supplier": "Highland Watter Company",
+            "wholesale/retail": "R"
+        },
+        "1805045": {
+            "supplier": "Hillsborough Town of",
+            "wholesale/retail": "R"
+        },
+        "1806031": {
+            "supplier": "Hollister City of",
+            "wholesale/retail": "R"
+        },
+        "1806033": {
+            "supplier": "Holtville City of",
+            "wholesale/retail": "R"
+        },
+        "1804025": {
+            "supplier": "Hughson, City of",
+            "wholesale/retail": "R"
+        },
+        "1801015": {
+            "supplier": "Humboldt Bay Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1801017": {
+            "supplier": "Humboldt Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1807153": {
+            "supplier": "Huntington Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1807155": {
+            "supplier": "Huntington Park City of",
+            "wholesale/retail": "R"
+        },
+        "1810021": {
+            "supplier": "Imperial Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1810023": {
+            "supplier": "Imperial, City of",
+            "wholesale/retail": "R"
+        },
+        "1809019": {
+            "supplier": "Indian Wells Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1810025": {
+            "supplier": "Indio City of",
+            "wholesale/retail": "R"
+        },
+        "1807157": {
+            "supplier": "Industry, City of",
+            "wholesale/retail": "R"
+        },
+        "1807159": {
+            "supplier": "Inglewood City of",
+            "wholesale/retail": "R"
+        },
+        "1807161": {
+            "supplier": "Inland Empire Utilities Agency",
+            "wholesale/retail": "W"
+        },
+        "1810027": {
+            "supplier": "Joshua Basin Water District",
+            "wholesale/retail": "R"
+        },
+        "1807165": {
+            "supplier": "Jurupa Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1803039": {
+            "supplier": "Kerman, City of",
+            "wholesale/retail": "R"
+        },
+        "1803041": {
+            "supplier": "Kern County Water Agency Improvement District No 4",
+            "wholesale/retail": "W"
+        },
+        "1803043": {
+            "supplier": "Kingsburg, City of",
+            "wholesale/retail": "R"
+        },
+        "1802051": {
+            "supplier": "Konocti Communtiy Service District",
+            "wholesale/retail": "R"
+        },
+        "1807167": {
+            "supplier": "La Canada Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807169": {
+            "supplier": "La Habra City of Public Works",
+            "wholesale/retail": "R"
+        },
+        "1807171": {
+            "supplier": "La Habra Heights Community Water District",
+            "wholesale/retail": "R"
+        },
+        "1807173": {
+            "supplier": "La Palma City of",
+            "wholesale/retail": "R"
+        },
+        "1807175": {
+            "supplier": "La Puente Valley Communtiy Water District",
+            "wholesale/retail": "R"
+        },
+        "1807177": {
+            "supplier": "La Verne City of",
+            "wholesale/retail": "R"
+        },
+        "1807179": {
+            "supplier": "Laguna Beach County Water District",
+            "wholesale/retail": "R"
+        },
+        "1809021": {
+            "supplier": "Lake Arrowhead Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807181": {
+            "supplier": "Lake Hemet Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1807183": {
+            "supplier": "Lakeside Water District",
+            "wholesale/retail": "R"
+        },
+        "1807185": {
+            "supplier": "Lakewood City of",
+            "wholesale/retail": "R"
+        },
+        "1803045": {
+            "supplier": "Lamont Public Utility District",
+            "wholesale/retail": "R"
+        },
+        "1807187": {
+            "supplier": "Las Virgenes Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1804027": {
+            "supplier": "Lathrop, City of",
+            "wholesale/retail": "R"
+        },
+        "1807189": {
+            "supplier": "Lee Lake Water District",
+            "wholesale/retail": "R"
+        },
+        "1803047": {
+            "supplier": "Lemoore City of",
+            "wholesale/retail": "R"
+        },
+        "1807191": {
+            "supplier": "Lincoln Avenue Water Company",
+            "wholesale/retail": "R"
+        },
+        "1802053": {
+            "supplier": "Lincoln City of",
+            "wholesale/retail": "R"
+        },
+        "1802055": {
+            "supplier": "Linda County Water District",
+            "wholesale/retail": "R"
+        },
+        "1803049": {
+            "supplier": "Lindsay City of",
+            "wholesale/retail": "R"
+        },
+        "1805047": {
+            "supplier": "Livermore City of Division of Water Resources",
+            "wholesale/retail": "R"
+        },
+        "1804029": {
+            "supplier": "Livingston City of",
+            "wholesale/retail": "R"
+        },
+        "1804031": {
+            "supplier": "Lodi City of Public Works Department",
+            "wholesale/retail": "R"
+        },
+        "1807193": {
+            "supplier": "Loma Linda City of",
+            "wholesale/retail": "R"
+        },
+        "1807195": {
+            "supplier": "Lomita City of",
+            "wholesale/retail": "R"
+        },
+        "1806035": {
+            "supplier": "Lompoc City of",
+            "wholesale/retail": "R"
+        },
+        "1807197": {
+            "supplier": "Long Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1807199": {
+            "supplier": "Los Angeles County Public Works Waterworks District 29",
+            "wholesale/retail": "R"
+        },
+        "1807201": {
+            "supplier": "Los Angeles County Public Works Waterworks District 4 & 34",
+            "wholesale/retail": "R"
+        },
+        "1809023": {
+            "supplier": "Los Angeles County Public Works Waterworks District 40",
+            "wholesale/retail": "R"
+        },
+        "1807202": {
+            "supplier": "Los Angeles County Water District #36",
+            "wholesale/retail": "R"
+        },
+        "1807203": {
+            "supplier": "Los Angeles Department of Water and Power",
+            "wholesale/retail": "R"
+        },
+        "1804033": {
+            "supplier": "Los Banos, City of",
+            "wholesale/retail": "R"
+        },
+        "1806037": {
+            "supplier": "Los Osos, City of",
+            "wholesale/retail": "R"
+        },
+        "1807205": {
+            "supplier": "Lynwood City of",
+            "wholesale/retail": "R"
+        },
+        "1804035": {
+            "supplier": "Madera City of",
+            "wholesale/retail": "R"
+        },
+        "1809025": {
+            "supplier": "Mammoth Community Water District",
+            "wholesale/retail": "R"
+        },
+        "1807207": {
+            "supplier": "Manhattan Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1804037": {
+            "supplier": "Manteca City of",
+            "wholesale/retail": "R"
+        },
+        "1805049": {
+            "supplier": "Marin Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1806039": {
+            "supplier": "Marina Coast Water District",
+            "wholesale/retail": "R"
+        },
+        "1805051": {
+            "supplier": "Martinez City of",
+            "wholesale/retail": "R"
+        },
+        "1807209": {
+            "supplier": "Maywood Mutual Water Company 1",
+            "wholesale/retail": "R"
+        },
+        "1807211": {
+            "supplier": "Maywood Mutual Water Company 2",
+            "wholesale/retail": "R"
+        },
+        "1807213": {
+            "supplier": "Maywood Mutual Water Company 3",
+            "wholesale/retail": "R"
+        },
+        "1803051": {
+            "supplier": "McAllister Ranch Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1801019": {
+            "supplier": "McKinleyville Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1805053": {
+            "supplier": "Menlo Park City of",
+            "wholesale/retail": "R"
+        },
+        "1804039": {
+            "supplier": "Merced City of",
+            "wholesale/retail": "R"
+        },
+        "1807215": {
+            "supplier": "Mesa Consolidated Water District",
+            "wholesale/retail": "R"
+        },
+        "1807217": {
+            "supplier": "Metropolitan Water District of Southern California",
+            "wholesale/retail": "W"
+        },
+        "1805055": {
+            "supplier": "Mid-Peninsula Water District",
+            "wholesale/retail": "R"
+        },
+        "1805057": {
+            "supplier": "Millbrae City of",
+            "wholesale/retail": "R"
+        },
+        "1805059": {
+            "supplier": "Milpitas City of",
+            "wholesale/retail": "R"
+        },
+        "1810029": {
+            "supplier": "Mission Springs Water District",
+            "wholesale/retail": "R"
+        },
+        "1804041": {
+            "supplier": "Modesto Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1804043": {
+            "supplier": "Modesto, City of",
+            "wholesale/retail": "R"
+        },
+        "1810031": {
+            "supplier": "Mojave Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1807219": {
+            "supplier": "Monrovia City of",
+            "wholesale/retail": "R"
+        },
+        "1807221": {
+            "supplier": "Monte Vista Water District",
+            "wholesale/retail": "R"
+        },
+        "1807223": {
+            "supplier": "Montebello Land and Water Company",
+            "wholesale/retail": "R"
+        },
+        "1806041": {
+            "supplier": "Montecito Water District",
+            "wholesale/retail": "R"
+        },
+        "1807225": {
+            "supplier": "Monterey Park City of",
+            "wholesale/retail": "R"
+        },
+        "1806043": {
+            "supplier": "Morgan Hill City of",
+            "wholesale/retail": "R"
+        },
+        "1807227": {
+            "supplier": "Moulton Niguel Water District",
+            "wholesale/retail": "R"
+        },
+        "1804044": {
+            "supplier": "Mountain House Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1805061": {
+            "supplier": "Mountain View City of",
+            "wholesale/retail": "R"
+        },
+        "1802057": {
+            "supplier": "Mt. Shasta, City of",
+            "wholesale/retail": "R"
+        },
+        "1807229": {
+            "supplier": "Municipal Water District of Orange County",
+            "wholesale/retail": "W"
+        },
+        "1810033": {
+            "supplier": "Myoma Dunes Mutual Water Company",
+            "wholesale/retail": "R"
+        },
+        "1805063": {
+            "supplier": "Napa City of",
+            "wholesale/retail": "R"
+        },
+        "1805064": {
+            "supplier": "Napa County Flood Control and Water Conservation District",
+            "wholesale/retail": "W"
+        },
+        "1802059": {
+            "supplier": "Nevada Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807231": {
+            "supplier": "Newhall County Water District",
+            "wholesale/retail": "R"
+        },
+        "1804045": {
+            "supplier": "Newman, City of",
+            "wholesale/retail": "R"
+        },
+        "1807233": {
+            "supplier": "Newport Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1806047": {
+            "supplier": "Nipomo Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807235": {
+            "supplier": "Norco City of",
+            "wholesale/retail": "R"
+        },
+        "1805065": {
+            "supplier": "North Coast County Water District",
+            "wholesale/retail": "R"
+        },
+        "1805067": {
+            "supplier": "North Marin Water District",
+            "wholesale/retail": "R"
+        },
+        "1803053": {
+            "supplier": "North of The River Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1808003": {
+            "supplier": "North Tahoe Public Utility District",
+            "wholesale/retail": "R"
+        },
+        "1807237": {
+            "supplier": "Norwalk City of",
+            "wholesale/retail": "R"
+        },
+        "1804047": {
+            "supplier": "Oakdale City of",
+            "wholesale/retail": "R"
+        },
+        "1806049": {
+            "supplier": "Oceano Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807239": {
+            "supplier": "Oceanside City of",
+            "wholesale/retail": "R"
+        },
+        "1803055": {
+            "supplier": "Oildale Mutual Water Company",
+            "wholesale/retail": "R"
+        },
+        "1802061": {
+            "supplier": "Olivehurst Public Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1807241": {
+            "supplier": "Olivenhain Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1807243": {
+            "supplier": "Ontario City of",
+            "wholesale/retail": "R"
+        },
+        "1807245": {
+            "supplier": "Orange City of",
+            "wholesale/retail": "R"
+        },
+        "1807246": {
+            "supplier": "Orange County Water District",
+            "wholesale/retail": "R"
+        },
+        "1802063": {
+            "supplier": "Orange Vale Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807247": {
+            "supplier": "Orchard Dale Water District",
+            "wholesale/retail": "R"
+        },
+        "1804049": {
+            "supplier": "Orland, City of",
+            "wholesale/retail": "R"
+        },
+        "1807249": {
+            "supplier": "Otay Water District",
+            "wholesale/retail": "R"
+        },
+        "1807250": {
+            "supplier": "Oxnard City of",
+            "wholesale/retail": "R"
+        },
+        "1807251": {
+            "supplier": "Padre Dam Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1805069": {
+            "supplier": "Palo Alto City of",
+            "wholesale/retail": "R"
+        },
+        "1802067": {
+            "supplier": "Paradise Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807253": {
+            "supplier": "Paramount City of",
+            "wholesale/retail": "R"
+        },
+        "1807255": {
+            "supplier": "Park Water Company",
+            "wholesale/retail": "R"
+        },
+        "1803057": {
+            "supplier": "Parlier, City of",
+            "wholesale/retail": "R"
+        },
+        "1807257": {
+            "supplier": "Pasadena City of",
+            "wholesale/retail": "R"
+        },
+        "1806051": {
+            "supplier": "Paso Robles City of",
+            "wholesale/retail": "R"
+        },
+        "1804051": {
+            "supplier": "Patterson City of",
+            "wholesale/retail": "R"
+        },
+        "1807259": {
+            "supplier": "Perris, City of",
+            "wholesale/retail": "R"
+        },
+        "1805071": {
+            "supplier": "Petaluma City of",
+            "wholesale/retail": "R"
+        },
+        "1809029": {
+            "supplier": "Phelan Pinon Hills Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1807261": {
+            "supplier": "Pico Rivera City of",
+            "wholesale/retail": "R"
+        },
+        "1807263": {
+            "supplier": "Pico Water District",
+            "wholesale/retail": "R"
+        },
+        "1803059": {
+            "supplier": "Pinedale County Water District",
+            "wholesale/retail": "R"
+        },
+        "1806053": {
+            "supplier": "Pismo Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1805073": {
+            "supplier": "Pittsburg City of",
+            "wholesale/retail": "R"
+        },
+        "1802069": {
+            "supplier": "Placer County Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1802071": {
+            "supplier": "Placerville, City of",
+            "wholesale/retail": "R"
+        },
+        "1805075": {
+            "supplier": "Pleasanton City of",
+            "wholesale/retail": "R"
+        },
+        "1807265": {
+            "supplier": "Pomona City of",
+            "wholesale/retail": "R"
+        },
+        "1807267": {
+            "supplier": "Port Hueneme City of",
+            "wholesale/retail": "W"
+        },
+        "1807269": {
+            "supplier": "Port Hueneme Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1803061": {
+            "supplier": "Porterville City of",
+            "wholesale/retail": "R"
+        },
+        "1807271": {
+            "supplier": "Poway City of",
+            "wholesale/retail": "R"
+        },
+        "1809031": {
+            "supplier": "Quartz Hill Water District",
+            "wholesale/retail": "R"
+        },
+        "1807273": {
+            "supplier": "Rainbow Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1807275": {
+            "supplier": "Ramona Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1807277": {
+            "supplier": "Rancho California Water District",
+            "wholesale/retail": "R"
+        },
+        "1804053": {
+            "supplier": "Rancho Murrietta Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1802073": {
+            "supplier": "Red Bluff City of",
+            "wholesale/retail": "R"
+        },
+        "1802075": {
+            "supplier": "Redding City of",
+            "wholesale/retail": "R"
+        },
+        "1807279": {
+            "supplier": "Redlands City of",
+            "wholesale/retail": "R"
+        },
+        "1805077": {
+            "supplier": "Redwood City City of",
+            "wholesale/retail": "R"
+        },
+        "1803063": {
+            "supplier": "Reedley City of",
+            "wholesale/retail": "R"
+        },
+        "1807281": {
+            "supplier": "Rialto City of",
+            "wholesale/retail": "R"
+        },
+        "1807283": {
+            "supplier": "Rincon Del Diablo Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1802077": {
+            "supplier": "Rio Linda - Elverta Community Water District",
+            "wholesale/retail": "R"
+        },
+        "1802079": {
+            "supplier": "Rio Vista, city of",
+            "wholesale/retail": "R"
+        },
+        "1804055": {
+            "supplier": "Ripon City of",
+            "wholesale/retail": "R"
+        },
+        "1804057": {
+            "supplier": "Riverbank City of",
+            "wholesale/retail": "R"
+        },
+        "1807285": {
+            "supplier": "Riverside City of",
+            "wholesale/retail": "R"
+        },
+        "1807287": {
+            "supplier": "Riverside Highland Water Company",
+            "wholesale/retail": "R"
+        },
+        "1801021": {
+            "supplier": "Rohnert Park City of",
+            "wholesale/retail": "R"
+        },
+        "1809033": {
+            "supplier": "Rosamond Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1802081": {
+            "supplier": "Roseville City of",
+            "wholesale/retail": "R"
+        },
+        "1807289": {
+            "supplier": "Rowland Water District",
+            "wholesale/retail": "R"
+        },
+        "1807291": {
+            "supplier": "Rubidoux Community Service District",
+            "wholesale/retail": "R"
+        },
+        "1807293": {
+            "supplier": "Rubio Canyon Land and Water Association",
+            "wholesale/retail": "R"
+        },
+        "1807295": {
+            "supplier": "Running Springs Water District",
+            "wholesale/retail": "R"
+        },
+        "1802083": {
+            "supplier": "Sacramento City of",
+            "wholesale/retail": "R"
+        },
+        "1802085": {
+            "supplier": "Sacramento County Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1802087": {
+            "supplier": "Sacramento Suburban Water District",
+            "wholesale/retail": "R"
+        },
+        "1807297": {
+            "supplier": "San Antonio Water Company",
+            "wholesale/retail": "W"
+        },
+        "1806055": {
+            "supplier": "San Benito County Water District",
+            "wholesale/retail": "W"
+        },
+        "1807299": {
+            "supplier": "San Bernardino City of",
+            "wholesale/retail": "R"
+        },
+        "1809035": {
+            "supplier": "San Bernardino County Service Area 64",
+            "wholesale/retail": "R"
+        },
+        "1809037": {
+            "supplier": "San Bernardino County Service Area 70",
+            "wholesale/retail": "R"
+        },
+        "1807301": {
+            "supplier": "San Bernardino Valley Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1805079": {
+            "supplier": "San Bruno City of",
+            "wholesale/retail": "R"
+        },
+        "1807303": {
+            "supplier": "San Buenaventura City of",
+            "wholesale/retail": "R"
+        },
+        "1807305": {
+            "supplier": "San Clemente City of",
+            "wholesale/retail": "R"
+        },
+        "1807307": {
+            "supplier": "San Diego City of",
+            "wholesale/retail": "R"
+        },
+        "1807309": {
+            "supplier": "San Diego County Water Authority",
+            "wholesale/retail": "W"
+        },
+        "1807311": {
+            "supplier": "San Dieguito Water District",
+            "wholesale/retail": "R"
+        },
+        "1807313": {
+            "supplier": "San Fernando City of",
+            "wholesale/retail": "R"
+        },
+        "1807315": {
+            "supplier": "San Gabriel County Water District",
+            "wholesale/retail": "R"
+        },
+        "1807317": {
+            "supplier": "San Gabriel Valley Fontana Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807319": {
+            "supplier": "San Gabriel Valley Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1807321": {
+            "supplier": "San Gabriel Valley Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807323": {
+            "supplier": "San Gorgonio Pass Water Agency",
+            "wholesale/retail": "R"
+        },
+        "1807325": {
+            "supplier": "San Jacinto City of",
+            "wholesale/retail": "R"
+        },
+        "1804059": {
+            "supplier": "San Joaquin County",
+            "wholesale/retail": "R"
+        },
+        "1805083": {
+            "supplier": "San Jose City of",
+            "wholesale/retail": "R"
+        },
+        "1807327": {
+            "supplier": "San Juan Basin Authority",
+            "wholesale/retail": "R"
+        },
+        "1807329": {
+            "supplier": "San Juan Capistrano City of",
+            "wholesale/retail": "R"
+        },
+        "1802089": {
+            "supplier": "San Juan Water District",
+            "wholesale/retail": "R"
+        },
+        "1806057": {
+            "supplier": "San Lorenzo Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1806059": {
+            "supplier": "San Luis Obispo City of",
+            "wholesale/retail": "R"
+        },
+        "1806061": {
+            "supplier": "San Luis Obispo County Flood Control & Water Conservation District Zone 3",
+            "wholesale/retail": "W"
+        },
+        "1807330": {
+            "supplier": "San Marino City of",
+            "wholesale/retail": "R"
+        },
+        "1803065": {
+            "supplier": "Sanger City of",
+            "wholesale/retail": "R"
+        },
+        "1807331": {
+            "supplier": "Santa Ana City of",
+            "wholesale/retail": "R"
+        },
+        "1807333": {
+            "supplier": "Santa Ana River Water Company",
+            "wholesale/retail": "R"
+        },
+        "1806063": {
+            "supplier": "Santa Barbara City of",
+            "wholesale/retail": "R"
+        },
+        "1805087": {
+            "supplier": "Santa Clara City of",
+            "wholesale/retail": "R"
+        },
+        "1805089": {
+            "supplier": "Santa Clara Valley Water District",
+            "wholesale/retail": "W"
+        },
+        "1806065": {
+            "supplier": "Santa Cruz City of",
+            "wholesale/retail": "R"
+        },
+        "1807335": {
+            "supplier": "Santa Fe Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807337": {
+            "supplier": "Santa Fe Springs City of",
+            "wholesale/retail": "R"
+        },
+        "1807339": {
+            "supplier": "Santa Margarita Water District",
+            "wholesale/retail": "R"
+        },
+        "1806067": {
+            "supplier": "Santa Maria City of",
+            "wholesale/retail": "R"
+        },
+        "1807343": {
+            "supplier": "Santa Paula City of",
+            "wholesale/retail": "R"
+        },
+        "1801023": {
+            "supplier": "Santa Rosa City of",
+            "wholesale/retail": "R"
+        },
+        "1806069": {
+            "supplier": "Santa Ynez River Water Conservation District",
+            "wholesale/retail": "R"
+        },
+        "1807345": {
+            "supplier": "Sativa Los Angeles Community Water District",
+            "wholesale/retail": "R"
+        },
+        "1806071": {
+            "supplier": "Scotts Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807347": {
+            "supplier": "Seal Beach City of",
+            "wholesale/retail": "R"
+        },
+        "1801025": {
+            "supplier": "Sebastopol, City of",
+            "wholesale/retail": "R"
+        },
+        "1803066": {
+            "supplier": "Semitropic Water Storage District",
+            "wholesale/retail": "R"
+        },
+        "1807349": {
+            "supplier": "Serrano Water District",
+            "wholesale/retail": "W"
+        },
+        "1803067": {
+            "supplier": "Shafter City of",
+            "wholesale/retail": "R"
+        },
+        "1802091": {
+            "supplier": "Shasta Lake City of",
+            "wholesale/retail": "R"
+        },
+        "1807351": {
+            "supplier": "Sierra Madre City of",
+            "wholesale/retail": "R"
+        },
+        "1807353": {
+            "supplier": "Signal Hill, City of",
+            "wholesale/retail": "R"
+        },
+        "1802093": {
+            "supplier": "Solano County Water Agency",
+            "wholesale/retail": "W"
+        },
+        "1802094": {
+            "supplier": "Solano Irrigation District",
+            "wholesale/retail": "W"
+        },
+        "1806073": {
+            "supplier": "Soledad, City of",
+            "wholesale/retail": "R"
+        },
+        "1805091": {
+            "supplier": "Sonoma City of",
+            "wholesale/retail": "R"
+        },
+        "1801027": {
+            "supplier": "Sonoma County Water Agency",
+            "wholesale/retail": "W"
+        },
+        "1806075": {
+            "supplier": "Soquel Creek Water District",
+            "wholesale/retail": "R"
+        },
+        "1807355": {
+            "supplier": "South Coast Water District",
+            "wholesale/retail": "R"
+        },
+        "1802095": {
+            "supplier": "South Feather Water and Power Agency",
+            "wholesale/retail": "R"
+        },
+        "1807357": {
+            "supplier": "South Gate City of",
+            "wholesale/retail": "R"
+        },
+        "1807359": {
+            "supplier": "South Montebello Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807361": {
+            "supplier": "South Pasadena City of",
+            "wholesale/retail": "R"
+        },
+        "1804061": {
+            "supplier": "South San Joaquin Irrigation District",
+            "wholesale/retail": "W"
+        },
+        "1808005": {
+            "supplier": "South Tahoe Public Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1807363": {
+            "supplier": "Southern California Edison Company - Santa Catalina Island",
+            "wholesale/retail": "R"
+        },
+        "1803069": {
+            "supplier": "Stallion Springs Community Services District",
+            "wholesale/retail": "R"
+        },
+        "1804062": {
+            "supplier": "Stockton City of",
+            "wholesale/retail": "R"
+        },
+        "1804063": {
+            "supplier": "Stockton East Water District",
+            "wholesale/retail": "W"
+        },
+        "1807366": {
+            "supplier": "Suburban Water Systems San Jose Hills",
+            "wholesale/retail": "R"
+        },
+        "1807367": {
+            "supplier": "Suburban Water Systems Whittier/La Mirada",
+            "wholesale/retail": "R"
+        },
+        "1805093": {
+            "supplier": "Suisun-Solano Water Authority",
+            "wholesale/retail": "R"
+        },
+        "1807369": {
+            "supplier": "Sunny Slope Water Company",
+            "wholesale/retail": "R"
+        },
+        "1806077": {
+            "supplier": "Sunnyslope County Water District",
+            "wholesale/retail": "R"
+        },
+        "1805095": {
+            "supplier": "Sunnyvale City of",
+            "wholesale/retail": "R"
+        },
+        "1808007": {
+            "supplier": "Susanville City of",
+            "wholesale/retail": "R"
+        },
+        "1807371": {
+            "supplier": "Sweetwater Authority",
+            "wholesale/retail": "R"
+        },
+        "1801029": {
+            "supplier": "Sweetwater Springs Water District",
+            "wholesale/retail": "R"
+        },
+        "1808009": {
+            "supplier": "Tahoe City Public Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1803073": {
+            "supplier": "Tehachapi-Cummings County Water District",
+            "wholesale/retail": "W"
+        },
+        "1803071": {
+            "supplier": "Tehachapi, City of",
+            "wholesale/retail": "R"
+        },
+        "1803075": {
+            "supplier": "Tejon-Castac Water District",
+            "wholesale/retail": "R"
+        },
+        "1807372": {
+            "supplier": "Temescal Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807373": {
+            "supplier": "Thousand Oaks City of",
+            "wholesale/retail": "R"
+        },
+        "1807375": {
+            "supplier": "Three Valleys Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1807379": {
+            "supplier": "Trabuco Canyon Water District",
+            "wholesale/retail": "R"
+        },
+        "1807381": {
+            "supplier": "Triunfo Sanitation District / Oak Park Water Service",
+            "wholesale/retail": "R"
+        },
+        "1808011": {
+            "supplier": "Truckee-Donner Public Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1803077": {
+            "supplier": "Tulare, City of",
+            "wholesale/retail": "R"
+        },
+        "1804067": {
+            "supplier": "Tuolumne Utilities District",
+            "wholesale/retail": "R"
+        },
+        "1804069": {
+            "supplier": "Turlock City of",
+            "wholesale/retail": "R"
+        },
+        "1807382": {
+            "supplier": "Tustin City of",
+            "wholesale/retail": "R"
+        },
+        "1810035": {
+            "supplier": "Twentynine Palms Water District",
+            "wholesale/retail": "R"
+        },
+        "1801031": {
+            "supplier": "Ukiah City of",
+            "wholesale/retail": "R"
+        },
+        "1807383": {
+            "supplier": "United Water Conservation District",
+            "wholesale/retail": "W"
+        },
+        "1807385": {
+            "supplier": "Upland City of",
+            "wholesale/retail": "R"
+        },
+        "1807387": {
+            "supplier": "Upper San Gabriel Valley Municipal Water",
+            "wholesale/retail": "W"
+        },
+        "1802097": {
+            "supplier": "Vacaville City of",
+            "wholesale/retail": "R"
+        },
+        "1802099": {
+            "supplier": "Valencia Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807389": {
+            "supplier": "Vallecitos Water District",
+            "wholesale/retail": "R"
+        },
+        "1805097": {
+            "supplier": "Vallejo City of",
+            "wholesale/retail": "R"
+        },
+        "1807391": {
+            "supplier": "Valley Center Municipal Water District",
+            "wholesale/retail": "R"
+        },
+        "1807393": {
+            "supplier": "Valley County Water District",
+            "wholesale/retail": "R"
+        },
+        "1805099": {
+            "supplier": "Valley of the Moon Water District",
+            "wholesale/retail": "R"
+        },
+        "1807395": {
+            "supplier": "Valley Water Company",
+            "wholesale/retail": "R"
+        },
+        "1803079": {
+            "supplier": "Vaughn Water Company",
+            "wholesale/retail": "R"
+        },
+        "1807397": {
+            "supplier": "Ventura County Waterworks District No 1",
+            "wholesale/retail": "R"
+        },
+        "1807398": {
+            "supplier": "Ventura County Waterworks District No. 8",
+            "wholesale/retail": "R"
+        },
+        "1807399": {
+            "supplier": "Vernon City of",
+            "wholesale/retail": "R"
+        },
+        "1809039": {
+            "supplier": "Victorville Water District",
+            "wholesale/retail": "R"
+        },
+        "1807401": {
+            "supplier": "Vista Irrigation District",
+            "wholesale/retail": "R"
+        },
+        "1807403": {
+            "supplier": "Walnut Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1803081": {
+            "supplier": "Wasco City of",
+            "wholesale/retail": "R"
+        },
+        "1807405": {
+            "supplier": "Water Facilities Authority",
+            "wholesale/retail": "W"
+        },
+        "1804073": {
+            "supplier": "Waterford, City of",
+            "wholesale/retail": "R"
+        },
+        "1806079": {
+            "supplier": "Watsonville City of",
+            "wholesale/retail": "R"
+        },
+        "1807407": {
+            "supplier": "West Basin Municipal Water District",
+            "wholesale/retail": "W"
+        },
+        "1803083": {
+            "supplier": "West Kern Water District",
+            "wholesale/retail": "R"
+        },
+        "1802101": {
+            "supplier": "West Sacramento City of",
+            "wholesale/retail": "R"
+        },
+        "1807409": {
+            "supplier": "West Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1805101": {
+            "supplier": "Westborough Water District",
+            "wholesale/retail": "R"
+        },
+        "1807411": {
+            "supplier": "Western Municipal Water District of Riverside",
+            "wholesale/retail": "R"
+        },
+        "1803085": {
+            "supplier": "Westlands Water District",
+            "wholesale/retail": "R"
+        },
+        "1807413": {
+            "supplier": "Westminster City of",
+            "wholesale/retail": "R"
+        },
+        "1807415": {
+            "supplier": "Whittier City of",
+            "wholesale/retail": "R"
+        },
+        "1801033": {
+            "supplier": "Windsor, Town of",
+            "wholesale/retail": "R"
+        },
+        "1804075": {
+            "supplier": "Winton Water & Sanitary District",
+            "wholesale/retail": "R"
+        },
+        "1802103": {
+            "supplier": "Woodland City of",
+            "wholesale/retail": "R"
+        },
+        "1807417": {
+            "supplier": "Yorba Linda Water District",
+            "wholesale/retail": "R"
+        },
+        "1801035": {
+            "supplier": "Yreka, City of",
+            "wholesale/retail": "R"
+        },
+        "1802105": {
+            "supplier": "Yuba City City of",
+            "wholesale/retail": "R"
+        },
+        "1807419": {
+            "supplier": "Yucaipa Valley Water District",
+            "wholesale/retail": "R"
+        },
+        "1807421": {
+            "supplier": "Yuima Municipal Water District",
+            "wholesale/retail": "R"
+        }
+    }
+}
