@@ -218,7 +218,7 @@ class subWESTnet:
         assert pd.read_csv(filename+'.csv').shape == self.energy.shape
         print('File saved.')
 
-    def to_dot(self, path='output/'):
+    def to_dot(self, path='output/', svg=False):
         """ Saves networkx graph to dot file.
 
         Args:
@@ -258,3 +258,14 @@ class subWESTnet:
 
         # write dot
         write_dot(self.graph, path+filename+'.dot')
+        print('dot saved')
+
+        if svg:
+            # Process the dot file using GraphViz
+            os.system("""
+                dot -Tsvg %(path)s%(filename)s.dot -o %(path)s%(filename)s.svg
+                """% {
+                'path': path,
+                'filename':filename
+                });
+            print('svg saved')

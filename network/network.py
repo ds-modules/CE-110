@@ -133,7 +133,7 @@ def colorScale(val, vmin=0, vmax=4500, cmap = cm.RdYlGn_r):
     rgb = m.to_rgba(val)
     return mpl.colors.rgb2hex(rgb)
 
-def graph_to_pdf(self, completed_nodes, path = 'output/'):
+def save_graph(self, completed_nodes, path = 'output/', pdf=False, svg=True)/:
     # Define file name
     filename = '%(name)s_%(year)s' % {
                     'name':self.name,
@@ -154,12 +154,21 @@ def graph_to_pdf(self, completed_nodes, path = 'output/'):
 
 
     # Process the dot file using GraphViz
-    os.system("""
-        dot -Tpdf %(path)s%(filename)s.dot -o %(path)s%(filename)s.pdf
-        """% {
-        'path': path,
-        'filename':filename
-        });
+    if pdf:
+        os.system("""
+            dot -Tpdf %(path)s%(filename)s.dot -o %(path)s%(filename)s.pdf
+            """% {
+            'path': path,
+            'filename':filename
+            });
+    if svg:
+        os.system("""
+            dot -Tsvg %(path)s%(filename)s.dot -o %(path)s%(filename)s.svg
+            """% {
+            'path': path,
+            'filename':filename
+            });
+        print('svg saved')
 
 def children(data, source):
     """Constructs a nested list of downstream nodes
