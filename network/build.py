@@ -46,7 +46,7 @@ class WESTNet(object):
         return df.to_csv(dir+file_name, index=index)
 
     #### new subgraph code ####
-    def create_subgraph(self, utility, filename, up=False, csv=True, svg=False):
+    def create_subgraph(self, utility, filename, up=False, csv=True):
         if up:
             nested = net.parents(self.d, utility)
         else:
@@ -64,15 +64,6 @@ class WESTNet(object):
             self.g.add_node(node, style='filled',fillcolor=color)
 
         write_dot(subgraph, 'output/' + filename + '.dot')
-        print('dot saved')
-        if svg:
-            os.system("""
-                dot -Tsvg %(path)s%(filename)s.dot -o %(path)s%(filename)s.svg
-                """% {
-                'path': path,
-                'filename':filename
-                });
-                print('svg saved')
 
         #energy table
         rows = [{'node': node, 'kwh/af':self.completed_nodes[node]} for node in subgraph.nodes()]
