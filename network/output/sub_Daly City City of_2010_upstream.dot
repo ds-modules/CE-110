@@ -1,0 +1,26 @@
+digraph  {
+SW1805081PEN [fillcolor="#06733d", style=filled];
+"GWR1805-2-35" [fillcolor="#5ab760", style=filled];
+"Daly City City of" [fillcolor="#4eb15d", style=filled];
+WESTSIDE [fillcolor="#006837", style=filled];
+"1805027PD" [fillcolor="#0d8044", style=filled];
+SW1805081SYS [fillcolor="#006837", style=filled];
+SW1805081EB [fillcolor="#006837", style=filled];
+R_Tuolumn [fillcolor="#006837", style=filled];
+RES1805081 [fillcolor="#006837", style=filled];
+"1805027REC" [fillcolor="#06733d", style=filled];
+"1805027NPD" [fillcolor="#138c4a", style=filled];
+WWT1805027 [fillcolor="#006837", style=filled];
+SW1805081PEN -> "GWR1805-2-35"  [key=0];
+SW1805081PEN -> "1805027PD"  [key=0];
+"GWR1805-2-35" -> "Daly City City of"  [key=0];
+WESTSIDE -> "1805027PD"  [key=0];
+"1805027PD" -> "Daly City City of"  [key=0];
+SW1805081SYS -> SW1805081EB  [key=0];
+SW1805081EB -> SW1805081PEN  [key=0];
+R_Tuolumn -> RES1805081  [key=0];
+RES1805081 -> SW1805081SYS  [key=0];
+"1805027REC" -> "1805027NPD"  [key=0];
+"1805027NPD" -> "Daly City City of"  [key=0];
+WWT1805027 -> "1805027REC"  [key=0];
+}
