@@ -6,9 +6,9 @@
 
 **Module for Civil Engineering**
 
-**Instructor: Jennifer Stokes Draut, Kara L Nelson**
+**Instructor: Jennifer S. Draut, Kara L. Nelson**
 
-The goal of this module is to examine the UN's Gender Inequality Index (GII) ranking system in Asian countries and compare it with the World Economic Forum's Global Gender Gap Report (GGGR). In this module, we will go over basic concepts in Python, calculate the Gender Inequality Index, visualize the GII for Asian countries using maps, predict the GII for a country, and compare the differences in calculation of the GII and GGGR. 
+The goal of this module is to vizualize California water networks and examine the differences in the network across years. We will go over basic concepts in Python, map local networks and water flow surrounding specific utilities, and analyze the the differences in volume of water transported as well as amount of energy consumed by utilies between 2010 and 2015. We will assess how well these metrics for 2015 were predited in 2010 and make sense of the changes in water flow and energy consumption in the context of the California drought.
 
 **Developers: Jason Webb, Mina Kim, Leo Li, Keiko Kamei**
 
@@ -18,6 +18,6 @@ The goal of this module is to examine the UN's Gender Inequality Index (GII) ran
 
 | Notebook                     | Data File                           | Data Source                  | Reason for use       |
 | :--------------------------: | ----------------------------------- | ---------------------------- | -------------------- |
-| Intro-to-Python-and-Jupyter   | network.csv  | Courtesy of Jennifer Stokes Draut | Introducing Table Manipulation        |
-| Water-Networks-&-Energy-Analysis-Notebook   | network.csv  | Courtesy of Jennifer Stokes Draut | Networks Graphing & Energy Analysis        |
-| Water-Networks-&-Energy-Analysis-Notebook-Solutions   | network.csv  | Courtesy of Jennifer Stokes Draut | Networks Graphing & Energy Analysis        |
+| Intro-to-Python-and-Jupyter   | network.csv  | Courtesy of Jennifer S. Draut | Introducing Table Manipulation        |
+| Water-Networks-&-Energy-Analysis-Notebook   | network.csv  | Courtesy of Jennifer S. Draut | Networks Graphing & Energy Analysis        |
+| Water-Networks-&-Energy-Analysis-Notebook-Solutions   | network.csv  | Courtesy of Jennifer S. Draut | Networks Graphing & Energy Analysis        |
