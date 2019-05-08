@@ -1,3 +1,7 @@
 numpy==1.16.*
 matplotlib==3.*
 pandas==0.23.4
+datascience==0.10.6
+pydot==1.4.1
+networkx==2.3
+scipy==1.2.1
