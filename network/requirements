@@ -5,4 +5,3 @@ datascience==0.10.6
 pydot==1.4.1
 networkx==2.3
 scipy==1.2.1
-math==3.7.3
