@@ -1,0 +1,28 @@
+digraph  {
+SW_CVPFKC [fillcolor="#006837", style=filled];
+"Fresno City of" [fillcolor="#16914d", style=filled];
+"1803033GW" [fillcolor="#33a456", style=filled];
+"1803033PD" [fillcolor="#39a758", style=filled];
+FRES_ID [fillcolor="#006837", style=filled];
+RES_MLRTN [fillcolor="#006837", style=filled];
+"1803033REC" [fillcolor="#006837", style=filled];
+"1803033NPD" [fillcolor="#0d8044", style=filled];
+KINGS [fillcolor="#006837", style=filled];
+"SAN JOAQUIN VALLEY" [fillcolor="#006837", style=filled];
+"GWR1803-5-22.08" [fillcolor="#dcf08f", style=filled];
+WWT1803033 [fillcolor="#006837", style=filled];
+SW_CVPFKC -> "Fresno City of"  [key=0];
+SW_CVPFKC -> "1803033PD"  [key=0];
+"1803033GW" -> "1803033PD"  [key=0];
+"1803033GW" -> "Fresno City of"  [key=0];
+"1803033PD" -> "Fresno City of"  [key=0];
+FRES_ID -> "1803033PD"  [key=0];
+RES_MLRTN -> SW_CVPFKC  [key=0];
+"1803033REC" -> "1803033NPD"  [key=0];
+"1803033REC" -> "GWR1803-5-22.08"  [key=0];
+"1803033NPD" -> "Fresno City of"  [key=0];
+KINGS -> "1803033GW"  [key=0];
+"SAN JOAQUIN VALLEY" -> KINGS  [key=0];
+"GWR1803-5-22.08" -> "1803033GW"  [key=0];
+WWT1803033 -> "1803033REC"  [key=0];
+}
